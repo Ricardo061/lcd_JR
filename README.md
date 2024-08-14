@@ -94,8 +94,9 @@ simulação:
 As imagens abaixo mostram as posições que os caracteres podem assumir no LCD e os
 comandos que podem ser enviados ao display:
 
+### Posição dos Caracteres
 ![posição caracteres](Figuras/pos_caract.PNG)
 
-**Figure 2** Posição dos caracteres no lcd.
+### Comandos que podem ser enviados ao lcd
 
 ![comandos lcd](Figuras/commands_disp.PNG)
